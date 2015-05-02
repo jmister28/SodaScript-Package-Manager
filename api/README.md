@@ -1,3 +1,3 @@
 # api
 
-a [Sails](http://sailsjs.org) application
+a [JJM]() application
